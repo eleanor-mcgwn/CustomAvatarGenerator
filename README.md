@@ -9,15 +9,6 @@ The **Custom Avatar Generator** is a Python-based tool that allows users to crea
 - Supports multiple layers, allowing for complex and varied avatar designs.
 - Outputs the final avatar as a PNG image file.
 
-## Contribution
-Contributions are welcome! If you have suggestions for improvements or features, please feel free to fork the repository and submit a pull request.
-
-## License
-This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
-
-## Acknowledgements
-This project uses the Pillow library for image processing.
-
 ## Prerequisites
 Before you begin, ensure you have the following installed on your system:
 - Python 3.x
@@ -48,10 +39,13 @@ Your project should have the following directory structure:
 │
 └── LICENSE           # GNU General Public License
 
-Usage
-Run the Program: Execute the CustomAvatarGenerator.py script to start the avatar generation process:
+```
 
+## Usage
+Run the Program: Execute the CustomAvatarGenerator.py script to start the avatar generation process:
+```bash
 python CustomAvatarGenerator.py
+```
 Input Component IDs: When prompted, enter the ID codes for each avatar component:
 
 Background: ID code for background image.
@@ -63,3 +57,13 @@ Lips: ID code for lips image or enter 0 to skip.
 Accessories: ID code for accessories image or enter 0 to skip.
 Special: ID code for special features image or enter 0 to skip.
 View and Save Output: The program will display the generated avatar and save it in the Output directory with a filename based on the entered IDs.
+
+## Contribution
+Contributions are welcome! If you have suggestions for improvements or features, please feel free to fork the repository and submit a pull request.
+
+## License
+This project is licensed under the GNU General Public License v3.0. See the LICENSE file for more details.
+
+## Acknowledgements
+This project uses the Pillow library for image processing.
+
