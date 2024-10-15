@@ -52,15 +52,15 @@ python CustomAvatarGenerator.py
 ```
 Input Component IDs: When prompted, enter the ID codes for each avatar component:
 
-Background: ID code for background image.
-Face: ID code for face image.
-Clothing: ID code for clothing image.
-Hair: ID code for hair image (specify colour, e.g., 1a) or enter 0 to skip.
-Facial Hair: ID code for facial hair image (specify colour, e.g., 5e) or enter 0 to skip.
-Lips: ID code for lips image or enter 0 to skip.
-Accessories: ID code for accessories image or enter 0 to skip.
-Special: ID code for special features image or enter 0 to skip.
-View and Save Output: The program will display the generated avatar and save it in the Output directory with a filename based on the entered IDs.
+- Background: ID code for background image.
+- Face: ID code for face image.
+- Clothing: ID code for clothing image.
+- Hair: ID code for hair image (specify colour, e.g., 1a) or enter 0 to skip.
+- Facial Hair: ID code for facial hair image (specify colour, e.g., 5e) or enter 0 to skip.
+- Lips: ID code for lips image or enter 0 to skip.
+- Accessories: ID code for accessories image or enter 0 to skip.
+- Special: ID code for special features image or enter 0 to skip.
+- View and Save Output: The program will display the generated avatar and save it in the Output directory with a filename based on the entered IDs.
 
 ## Contribution
 Contributions are welcome! If you have suggestions for improvements or features, please feel free to fork the repository and submit a pull request.
