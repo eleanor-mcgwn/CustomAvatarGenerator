@@ -18,8 +18,12 @@ You can install Pillow using pip:
 
 ```bash
 pip install pillow
+```
+
 Directory Structure
 Your project should have the following directory structure:
+
+```bash
 
 /Custom Avatar Generator
 │
