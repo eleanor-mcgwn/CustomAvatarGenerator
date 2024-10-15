@@ -21,8 +21,6 @@ pip install pillow
 Directory Structure
 Your project should have the following directory structure:
 
-graphql
-Copy code
 /Custom Avatar Generator
 │
 ├── Assets/
@@ -42,11 +40,10 @@ Copy code
 └── LICENSE           # GNU General Public License
 
 Usage
-Run the Program: Execute the main.py script to start the avatar generation process:
+Run the Program: Execute the CustomAvatarGenerator.py script to start the avatar generation process:
 
-bash
-Copy code
-python main.py
+```bash
+python CustomAvatarGenerator.py
 Input Component IDs: When prompted, enter the ID codes for each avatar component:
 
 Background: ID code for background image.
