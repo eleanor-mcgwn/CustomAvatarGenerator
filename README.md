@@ -50,7 +50,7 @@ Run the Program: Execute the CustomAvatarGenerator.py script to start the avatar
 ```bash
 python CustomAvatarGenerator.py
 ```
-Input Component IDs: When prompted, enter the ID codes for each avatar component:
+Input Component IDs: When prompted, enter the ID codes for each avatar component. The 'Avatar_key_....' files illustrate each component available for each subsection. 
 
 - Background: ID code for background image.
 - Face: ID code for face image.
